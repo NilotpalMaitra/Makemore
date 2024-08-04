@@ -1,2 +1,2 @@
 # Makemore
-Building makemore from scratch
+Trying to make Makemore from scratch
